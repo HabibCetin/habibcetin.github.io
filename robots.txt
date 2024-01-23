@@ -12,5 +12,5 @@ Allow: /includes/
 Sitemap: https://https://habibcetin.github.io
 
 User-agent: Google-adstxt
-
+Allow: /app-ads.txt
 Disallow:
