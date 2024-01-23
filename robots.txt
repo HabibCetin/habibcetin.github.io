@@ -4,4 +4,8 @@ Disallow: /
 User-agent: Mediapartners-Google
 Allow: /app-ads.txt
 
+User-agent: Google-adstxt
+
+Disallow:
+
 Sitemap: https://habibcetin.github.io/sitemap.xml
