@@ -10,3 +10,7 @@ User-agent: Googlebot
 Allow: /includes/
 
 Sitemap: https://https://habibcetin.github.io
+
+User-agent: Google-adstxt
+
+Disallow:
