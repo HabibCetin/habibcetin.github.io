@@ -9,4 +9,4 @@ Disallow: /includes/
 User-agent: Googlebot
 Allow: /includes/
 
-Sitemap: https://https://habibcetin.github.io/
+Sitemap: https://https://habibcetin.github.io
