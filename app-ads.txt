@@ -345,9 +345,9 @@ ssp.e-volution.ai, AJxF6R118a9M6CaTvK, RESELLER
 loopme.com, 11367, RESELLER, 6c8d5f95897a5a3b
 inmobi.com, 30f3830cfef249a3ad46ee1a0bba7af3, RESELLER, 83e75a7ae333ca9d
 myfeature.tv, UvnXhUMZHRvKfRk52QZy, RESELLER
-video.unrulymedia.com,  1876793108340587286, RESELLER
+video.unrulymedia.com, 1876793108340587286, RESELLER
 inmobi.com, cac51fe616224c3c8f858f34b3267dd7, RESELLER, 83e75a7ae333ca9d
-omnifytv.com, 05096ffe925c11eda1eb0242ac120002, RESELLER 
+omnifytv.com, 05096ffe925c11eda1eb0242ac120002, RESELLER
 inmobi.com, 662fb54f5d15471a80b4ddaa467e84b0, RESELLER, 83e75a7ae333ca9d
 bematterfull.com, 562499, RESELLER
 triplelift.com, 13423, RESELLER, 6c33edb13117fd86
@@ -437,7 +437,6 @@ smartadserver.com, 4762, RESELLER, 060d053dcf45cbf3
 appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
 xandr.com, 15426, RESELLER, f5ab79cb980f11d1
 smaato.com, 1100055341, RESELLER, 07bcf65f187117b4
-smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
 sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
 pubmatic.com, 156177, RESELLER, 5d62403b186f2ace
@@ -451,7 +450,6 @@ triplelift.com, 11000, RESELLER, 6c33edb13117fd86
 algorix.co, 604550, RESELLER, 5b394c12fea27a1d
 freewheel.tv, 1601610, RESELLER
 freewheel.tv, 1601613, RESELLER
-freewheel.tv, 1585279, RESELLER
 inmobi.com, 0c2fa8130b884712913cc0bfc84e1c31, RESELLER, 83e75a7ae333ca9d
 video.unrulymedia.com, 689559416, RESELLER
 unrulymedia.com, 689559416, RESELLER
@@ -500,7 +498,6 @@ lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
 whildey.com, 5541841875, RESELLER
 adnuro.com, 2882096573, RESELLER
 newsusadigital.com, 1001719521, RESELLER
-ardenodemedia.com, 6722177159 RESELLER
 balloonlabs.ai, 9173515033, RESELLER
 advanttechnology.com, 1126183541, RESELLER
 widesound.io, 1674308979, RESELLER
@@ -527,7 +524,7 @@ my-cast.tv, 987032, RESELLER
 rubiconproject.com, 25748, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24606, RESELLER, 0bfd66d529a55807
 caerulus.io, 3320-39849, RESELLER
-adform.com , 2742 , RESELLER
+adform.com, 2742, RESELLER
 lacunads.com, LC136f79e999464edc, RESELLER
 ads.vk.com, 18644219, RESELLER
 axonix.com, 59113, RESELLER, bc385f2b4a87b721
@@ -562,25 +559,24 @@ video.unrulymedia.com, 682817271102171104, RESELLER
 video.unrulymedia.com, 3795567838, RESELLER
 video.unrulymedia.com, 1286320118, RESELLER
 rubiconproject.com, 25374, RESELLER, 0bfd66d529a55807
-smartclip.net,12358,RESELLER
-smartclip.net,12422,RESELLER
+smartclip.net, 12358, RESELLER
+smartclip.net, 12422, RESELLER
 whildey.com, 6401127138, RESELLER
 advanttechnology.com, 2142690699, RESELLER
 improvedigital.com, 1209, RESELLER
 ionvogroup.com, 4737400844, RESELLER
-goldbach-germany.de,Connekt,RESELLER
-tremorhub.com,9l6ha-9w3wc,RESELLER,1a4e959a1b50034a
-telaria.com,9l6ha-9w3wc,RESELLER,1a4e959a1b50034a
+goldbach-germany.de, Connekt, RESELLER
+tremorhub.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
+telaria.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
 xandr.com, 15769, RESELLER
 appnexus.com, 15769, RESELLER, f5ab79cb980f11d1
-smartyads.com,300045, RESELLER, fd2bde0ff2e62c5d
+smartyads.com, 300045, RESELLER, fd2bde0ff2e62c5d
 video.unrulymedia.com, 645663965, RESELLER
 advertising.com, 23089, RESELLER
 advertising.com, 28605, RESELLER
 aniview.com, 603f65a2e291680ef30af9c7, RESELLER, 78b21b97965ec3f8
 appnexus.com, 12637, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
-appnexus.com, 6849, RESELLER
 google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
 google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
@@ -589,9 +585,14 @@ pubmatic.com, 161335, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161058, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 13918, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 15268, RESELLER
 synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
 yahoo.com, 59244, RESELLER
 loopme.com, 9718, RESELLER, 6c8d5f95897a5a3b
 Improvedigital.com, 1699, RESELLER
 openx.com, 543878511, RESELLER, 6a698e2ec38604c6
+bidease.com, bidease_seller_34, RESELLER
+tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
+video.unrulymedia.com, 819070080, RESELLER
+bold-win.com, 807, RESELLER, 71746737d0bab951
+flat-ads.com, 2196901, RESELLER
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
